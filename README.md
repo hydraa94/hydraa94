@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="justify-center">
   
 ![hydraa94's Stats](https://github-readme-stats.vercel.app/api?username=hydraa94&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
