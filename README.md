@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h4 align="left">Saya Muhammad Nailul Autor , seorang pelajar di <span><a href="https://www.smkn1-sby.sch.id/">SMK Negeri 1 Surabaya</a></span> .<br><br>Saat ini saya sedang mendalami bidang Teknik Jaringan Komputer dan Telekomunikasi.<br><br>Di waktu luang, saya senang mendengarkan musik , menonton anime , bermain game , dan tentunya belajar banyak hal baru termasuk teknologi.</h4>
+<h4 align="left">Saya Muhammad Nailul Autor , seorang pelajar di <span><a href="https://www.smkn1-sby.sch.id/">SMK Negeri 1 Surabaya</a></span> .<br><br>Saat ini saya sedang mendalami bidang Teknik Jaringan Komputer dan Telekomunikasi.<br><br>Di waktu luang, saya senang mendengarkan musik , menonton anime , bermain game , dan tentunya belajar banyak hal baru terutama yang berkaitan dengan teknologi dan pemrograman.</h4>
 
 ###
 
