@@ -13,7 +13,7 @@
 ###
 
 <h4 align="center">My Skills</h4>
-<h4 align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)</h4>
+<h4 align="center"><img src="https://skillicons.dev/icons?i=js,html,css,ts" alt=""/></h4>
 
 ###
 
