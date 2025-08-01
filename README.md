@@ -12,14 +12,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://instagram.com/xy.hydraa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://instagram.com/nailull948/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<h4 align="center">My Skills</h4>
+<h4 align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]</h4>
 
 ###
 
