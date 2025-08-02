@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">My Skills</h4>
+<h4 align="center">Tech Stacks</h4>
 <h4 align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts" alt=""/></h4>
 
 ###
