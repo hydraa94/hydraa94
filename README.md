@@ -32,12 +32,12 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
 
 ### Development Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,vercel,mysql,mongodb,supabase" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,mysql,mongodb,supabase" alt="Tools & Platforms" />
 </p>
 
 ### Working Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,kali,vscode" alt="Working Environment" />
+  <img src="https://skillicons.dev/icons?i=windows,kali,linux" alt="Working Environment" />
 </p>
 
 ---
