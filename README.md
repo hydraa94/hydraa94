@@ -19,7 +19,7 @@
 
 Computer and Network Engineering student at SMK Negeri 1 Surabaya.  
 Currently focusing on <b>programming, cybersecurity (mostly attack side), and system administration.</b>  
-I like figuring out how things work — sometimes by breaking them first.  
+I like figuring out how things work. 
 Still learning how to build more reliable systems and write cleaner code.  
 I’m open to new challenges, projects, and opportunities that can help me grow as a developer and problem-solver.
 
