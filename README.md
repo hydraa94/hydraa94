@@ -80,7 +80,6 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
   <table border=0>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=hydraa94&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=hydraa94&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydraa94&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></td>
     </tr>
   </table>
