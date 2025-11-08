@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://asianwiki.com/images/7/7a/Minami_Hamabe-2000-p1.jpg" width="80" style="border-radius:12px; margin:3px;">
   <img src="https://k.sinaimg.cn/n/sinacn20117/389/w852h1137/20190705/47ed-hzmafvm4848771.jpg/w700d1q75cms.jpg" width="80" style="border-radius:12px; margin:3px;">
-  <img src="https://image.tmdb.org/t/p/w500/8Ug3ar5eT4AhSKL5kY14daf4PDh.jpg" width="80" style="border-radius:12px; margin:3px;">
-  <img src="https://imgs.search.brave.com/z4BwGINURgNGxJsA9NOFZYpfRTlnqbidxjsw0HpVxGM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2QyLzUw/LzRhL2QyNTA0YTg5/NTAxNDRmZjA5NzIx/Y2ZmYWIyZDhiN2Yx/LmpwZw" width="80" style="border-radius:12px; margin:3px;">
+  <img src="https://image.tmdb.org/t/p/w500/8Ug3ar5eT4AhSKL5kY14daf4PDh.jpg" height="108" style="border-radius:12px; margin:3px;">
+  <img src="https://imgs.search.brave.com/z4BwGINURgNGxJsA9NOFZYpfRTlnqbidxjsw0HpVxGM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2QyLzUw/LzRhL2QyNTA0YTg5/NTAxNDRmZjA5NzIx/Y2ZmYWIyZDhiN2Yx/LmpwZw" width="95" style="border-radius:12px; margin:3px;">
 </p>
 
 ---
