@@ -31,17 +31,17 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,bun,elysia,tailwind" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun,elysia,tailwind,bootstrap" alt="Frameworks & Libraries" />
 </p>
 
 ### Development Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,mysql,mongodb,supabase" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,mysql,mongodb,supabase, firebase" alt="Tools & Platforms" />
 </p>
 
 ### Working Environment
