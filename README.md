@@ -1,27 +1,28 @@
 # Hello, I'm Muhammad Nailul Autor
 
+<div align="center">
+
+<br>
+
 ![Status](https://img.shields.io/badge/Status-Student-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Backend-orange?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Base-Indonesia-red?style=for-the-badge)
 
 ---
 
-<p align="center">
-  <img src="https://asianwiki.com/images/7/7a/Minami_Hamabe-2000-p1.jpg" width="80" style="border-radius:12px; margin:3px;">
-  <img src="https://k.sinaimg.cn/n/sinacn20117/389/w852h1137/20190705/47ed-hzmafvm4848771.jpg/w700d1q75cms.jpg" width="80" style="border-radius:12px; margin:3px;">
-  <img src="https://image.tmdb.org/t/p/w500/8Ug3ar5eT4AhSKL5kY14daf4PDh.jpg" height="108" style="border-radius:12px; margin:3px;">
-  <img src="https://imgs.search.brave.com/z4BwGINURgNGxJsA9NOFZYpfRTlnqbidxjsw0HpVxGM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2QyLzUw/LzRhL2QyNTA0YTg5/NTAxNDRmZjA5NzIx/Y2ZmYWIyZDhiN2Yx/LmpwZw" width="95" style="border-radius:12px; margin:3px;">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=440&lines=Cybersecurity+Learner;Backend+Developer;Always+Curious)](https://git.io/typing-svg)
+
+</div>
+
 
 ---
 
 ## About Me
 
-Computer and Network Engineering student at SMK Negeri 1 Surabaya.  
-Currently focusing on <b>programming, cybersecurity (mostly attack side), and system administration.</b>  
-I like figuring out how things work. 
-Still learning how to build more reliable systems and write cleaner code.  
-I’m open to new challenges, projects, and opportunities that can help me grow as a developer and problem-solver.
+I'm a **Computer and Network Engineering** student at **SMK Negeri 1 Surabaya**, focusing on **Cybersecurity**, **Networking**, and **Backend Development**.
+
+I enjoy understanding how systems work. <br>
+Currently learning to build more reliable systems, write cleaner code, and strengthen my foundation in security and system administration.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hynaii.my.id-9cf?style=for-the-badge&logo=firefox&logoColor=white)](https://hynaii.my.id)
 
@@ -39,29 +40,29 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun,elysia,tailwind,bootstrap" alt="Frameworks & Libraries" />
 </p>
 
-### Development Tools & Platforms
+### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,mysql,mongodb,supabase,firebase" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,mysql,mongodb,supabase,firebase,obsidian" alt="Tools & Platforms" />
 </p>
 
 ### Working Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,kali,linux" alt="Working Environment" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali" alt="Working Environment" />
 </p>
 
 ---
 
-## Technical Focus Areas
+## Focus & Learning
 
-- **Cybersecurity (mostly offensive, learning defense)**  
-  I spend most of my time on CTFs, exploit development, and reversing.  
-  I focus on offense because I enjoy breaking things, but I’m also learning defensive practices to understand how systems are protected.
+- **Cybersecurity (Offensive & Defensive)**  
+  Exploring vulnerabilities through CTFs, exploit development.  
+  Learning defensive strategies to understand protection mechanisms.
 
-- **Backend & APIs (work in progress)**  
-  I prefer backend work — APIs, databases, and server logic.
+- **Backend Development**  
+  Building APIs, managing databases, and optimizing server logic.
 
-- **Personal Server & Linux basics**  
-  I run and test things on my own Linux machines — nothing fancy yet, mostly self-hosting and basic deployment experiments.
+- **System Administration**  
+  Running small-scale Linux servers for testing, self-hosting, and deployment experiments.
 
 ---
 
@@ -71,6 +72,7 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
 ![Bun](https://img.shields.io/badge/Bun-black?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-purple?style=for-the-badge&logo=elysia&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -87,14 +89,6 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
 
 ---
 
-## Current Focus
-
-- Exploring web backend performance optimization using **Bun** and **TypeScript**  
-- Learning and applying **Linux server deployment** with modern DevOps workflows  
-- Deepening understanding of **cybersecurity concepts** and practical attack techniques  
-
----
-
 ## Find Me Online
 
 <p align="center">
@@ -107,19 +101,22 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
   <a href="https://www.linkedin.com/in/m-nailul-autor/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:nailulmna2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 ## Personal Development
 
-- Actively learning through technical media and hands-on exploration  
+- Learning through hands-on projects, challenges, and technical media  
 - Improving multilingual communication skills in **English**  
-- Maintaining a healthy balance between work, study, and personal interests  
-- Continuously developing skills and expanding knowledge in technology and beyond  
+- Maintaining balance between work, study, and creativity  
+- Constantly pushing to learn more, break limits, and grow as a problem-solver  
 
 ---
 
 <div align="center">
-  <sub>Coffee. Code. Sleep. Repeat.</sub>
+  <sub><b>"Coffee. Code. Sleep. Repeat."</b></sub>
 </div>
