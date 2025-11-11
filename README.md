@@ -10,6 +10,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/0d/1e/2e/0d1e2eb73d7ea9a02ab2152f00b727f5.jpg" width="105" style="border-radius:12px; margin:3px;">
   <img src="https://i.pinimg.com/1200x/d1/0b/b5/d10bb5ebc94d0f7439f3ccbe9daf8afe.jpg" width="145" style="border-radius:12px; margin:3px;">
+  <img src="https://i.pinimg.com/1200x/81/5c/5c/815c5cad1b468d782b9db4c0048e3669.jpg" height="125" style="border-radius:12px; margin:3px;">
+  <img src="https://i.pinimg.com/1200x/3a/ad/35/3aad35ce8807153fab05c2ef52821f5e.jpg" width="100" style="border-radius:12px; margin:3px;">
 </div>
 
 ## About Me
@@ -23,8 +25,6 @@ Currently learning to build more reliable systems, write cleaner code, and stren
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-hynaii.my.id-3b82f6?style=for-the-badge)](https://hynaii.my.id/) 
 
-  <img src="https://i.pinimg.com/1200x/81/5c/5c/815c5cad1b468d782b9db4c0048e3669.jpg" height="125" style="border-radius:12px; margin:3px;">
-  <img src="https://i.pinimg.com/1200x/3a/ad/35/3aad35ce8807153fab05c2ef52821f5e.jpg" width="100" style="border-radius:12px; margin:3px;">
 </div>
 
 ---
