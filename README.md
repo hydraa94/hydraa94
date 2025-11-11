@@ -41,7 +41,7 @@ I’m open to new challenges, projects, and opportunities that can help me grow 
 
 ### Development Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,mysql,mongodb,supabase, firebase" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,mysql,mongodb,supabase,firebase" alt="Tools & Platforms" />
 </p>
 
 ### Working Environment
