@@ -1,9 +1,7 @@
 # Hello, I'm Muhammad Nailul Autor
 
 <div align="center">
-
-<br>
-
+  
 ![Status](https://img.shields.io/badge/Status-Student-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Backend-orange?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Base-Indonesia-red?style=for-the-badge)
