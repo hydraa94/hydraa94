@@ -1,10 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:3b82f6,100:6366f1&height=200&section=header&text=Muhammad%20Nailul%20Autor&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20|%20Backend%20Developer%20|%20Linux%20Enjoyer&descSize=16&descAlignY=55" width="100%"/> <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:3b82f6,100:6366f1&height=200&section=header&text=Muhammad%20Nailul%20Autor&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20|%20Backend%20Developer%20Wannabe%20|%20Linux%20Enjoyer&descSize=16&descAlignY=55" width="100%"/> <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Student-3b82f6?style=for-the-badge&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Backend-f97316?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Base-Indonesia-ef4444?style=for-the-badge&logoColor=white)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=440&lines=Hello;Halo;もしもし！)](https://git.io/typing-svg)
 
 </div>
 
