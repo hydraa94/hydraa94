@@ -10,7 +10,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/0d/1e/2e/0d1e2eb73d7ea9a02ab2152f00b727f5.jpg" width="120" style="border-radius:12px; margin:3px;">
   <img src="https://i.pinimg.com/1200x/d1/0b/b5/d10bb5ebc94d0f7439f3ccbe9daf8afe.jpg" width="160" style="border-radius:12px; margin:3px;">
-  <img src="https://i.pinimg.com/1200x/81/5c/5c/815c5cad1b468d782b9db4c0048e3669.jpg" height="120" style="border-radius:12px; margin:3px;">
   <img src="https://i.pinimg.com/1200x/3a/ad/35/3aad35ce8807153fab05c2ef52821f5e.jpg" width="98" style="border-radius:12px; margin:3px;">
 </div>
 
