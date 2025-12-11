@@ -58,16 +58,6 @@ Currently learning to build more reliable systems, write cleaner code, and stren
 - System Administration
   Running small-scale Linux servers for testing, self-hosting, and deployment experiments.
 
-
-
----
-## GitHub Overview
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydraa94&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages" width="400" />
-</div>
-
-
 ---
 ## Personal Development
 
