@@ -7,12 +7,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/37/1e/91/371e9165a7d2070bdbdae1287f25a56e.jpg" width="180" style="border-radius:12px; margin:3px;">
-  <img src="https://i.pinimg.com/1200x/d1/0b/b5/d10bb5ebc94d0f7439f3ccbe9daf8afe.jpg" width="160" style="border-radius:12px; margin:3px;">
-  <img src="https://i.pinimg.com/1200x/3a/ad/35/3aad35ce8807153fab05c2ef52821f5e.jpg" width="98" style="border-radius:12px; margin:3px;">
-</div>
-
 ## About Me
 
 I'm a **Computer and Network Engineering** student at **SMK Negeri 1 Surabaya**, focusing on **Cybersecurity, Networking, and Backend Development.** <br>
