@@ -16,7 +16,7 @@ Currently learning to build more reliable systems, write cleaner code, and stren
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-hynaii.my.id-3b82f6?style=for-the-badge)](https://hynaii.my.id/) 
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-hynaii.vercel.app-3b82f6?style=for-the-badge)](https://hynaii.vercel.app) 
 
 </div>
 
