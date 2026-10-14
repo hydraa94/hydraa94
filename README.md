@@ -14,7 +14,7 @@ Computer & Network Engineering at [SMK Negeri 1 Surabaya](https://smkn1-sby.sch.
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-m--nailul--autor-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/m-nailul-autor/)
 [![Instagram](https://img.shields.io/badge/Instagram-nailull948-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nailull948/)
 [![HackMD](https://img.shields.io/badge/HackMD-@hydraa-453AFF?style=flat-square&logo=HackMD&logoColor=FFFFFF)](https://hackmd.io/@hydraa)
-[![Email](https://img.shields.io/badge/Email-mnailulautor2948@gmail.com-E4405F?style=flat-square&logo=gmail&logoColor=white)](mailto:mnailulautor2948@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mnailulautor948@gmail.com-E4405F?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=mnailulautor948@gmail.com)
 
 </div>
 
@@ -47,5 +47,35 @@ Backend and Linux are what I'm learning on the side.
 <img src="https://skillicons.dev/icons?i=git,docker,linux,kali&theme=dark" />
 
 </div>
+
+</div>
+
+---
+
+## About 
+
+Computer & Network Engineering student at SMKN 1 Surabaya.<br>
+I like taking things apart to see how they actually work.
+
+I do CTFs, mostly pwn and web.<br>
+Backend and Linux are what I'm learning on the side.
+
+## Current Focus
+
+- Writing cleaner code and building more scalable backend architecture
+- Strengthening my foundation in Linux environments and system administration
+- Expanding my CTF skill set into Reverse Engineering
+
+## Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,bun,react,nextjs,tailwind,mysql,supabase,firebase&theme=dark" />
+
+<br>
+
+**Tools & Environments**<br>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,kali&theme=dark" />
 
 </div>
