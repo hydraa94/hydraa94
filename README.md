@@ -49,33 +49,3 @@ Backend and Linux are what I'm learning on the side.
 </div>
 
 </div>
-
----
-
-## About 
-
-Computer & Network Engineering student at SMKN 1 Surabaya.<br>
-I like taking things apart to see how they actually work.
-
-I do CTFs, mostly pwn and web.<br>
-Backend and Linux are what I'm learning on the side.
-
-## Current Focus
-
-- Writing cleaner code and building more scalable backend architecture
-- Strengthening my foundation in Linux environments and system administration
-- Expanding my CTF skill set into Reverse Engineering
-
-## Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,bun,react,nextjs,tailwind,mysql,supabase,firebase&theme=dark" />
-
-<br>
-
-**Tools & Environments**<br>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,kali&theme=dark" />
-
-</div>
