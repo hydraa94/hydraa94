@@ -10,7 +10,7 @@
 ## About Me
 
 I'm a **Computer and Network Engineering** student at **SMK Negeri 1 Surabaya**, focusing on **Cybersecurity, Networking, and Backend Development.** <br>
-I enjoy understanding how systems work. I also an tech enthusiast. <br>s
+I enjoy understanding how systems work. I also an tech enthusiast. <br>
 Currently learning to build more reliable systems, write cleaner code, and strengthen my foundation in security and system administration.
 
 
