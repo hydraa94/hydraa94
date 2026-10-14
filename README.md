@@ -8,7 +8,7 @@
 
 **Backend Developer • Cybersecurity Learner • CTF Enthusiast**
 
-Computer & Network Engineering at [[SMK Negeri 1 Surabaya](https://smkn1-sby.sch.id/)]
+Computer & Network Engineering at [SMK Negeri 1 Surabaya](https://smkn1-sby.sch.id/)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-hynaii.vercel.app-3b82f6?style=flat-square)](https://hynaii.vercel.app) -->
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-m--nailul--autor-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/m-nailul-autor/)
