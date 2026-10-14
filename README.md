@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<image src="https://instagram.fsub8-2.fna.fbcdn.net/v/t51.82787-15/844474727_17938531014396895_3212965460549332603_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAwNjIyNDkyNTA5NTc5MzY2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BjXU9f5aL1cQ7kNvwH1BT5H&_nc_oc=Adp-ga29eabjVfYBwLK-jqHplgy2ArJoNL3GU8UPhHDTO2Rtagq7KY4qImCJ5YozJDc&_nc_zt=23&_nc_ht=instagram.fsub8-2.fna&_nc_gid=Ifzh8eEo7TIK5UFECQ2VbA&_nc_ss=7baaf&oh=00_AQMW-VIMgL1XYHcQnClbJCBGf-U6XrXbrcQ27SwTCAvbCA&oe=6AD51099" 
-       style="width: 50%; height: 250px; object-fit: cover; object-position: 100% 75%;" />
+<image src="https://static.wikia.nocookie.net/hearts2hearts/images/3/32/Hearts2Hearts_NME_%28June_2026%29_%282%29.png/revision/latest/scale-to-width-down/1000?cb=20260623000554" width=40% />
 
 
 # Muhammad Nailul Autor
